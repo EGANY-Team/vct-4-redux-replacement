@@ -2,7 +2,7 @@
 
 ## Giới thiệu
 
-Đây là repo demo cho bài viết [Vọc cùng Thành #4: Redux replacement]().
+Đây là repo demo cho bài viết [Vọc cùng Thành #4: Redux replacement](https://devnow.vn/voc-cung-thanh-4-soan-ngoi-redux.html).
 
 ![demo](./vct4.png)
 
